@@ -1,6 +1,6 @@
 {
   "name": "babel-presets-react-production",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Babel presets for react production",
   "main": "index.js",
   "author": "Yuanyan Cao",
@@ -13,6 +13,7 @@
     "react-production"
   ],
   "dependencies": {
+    "babel-plugin-dev-expression": "^0.1.0",
     "babel-plugin-react-class-display-name": "^0.1.0",
     "babel-plugin-react-remove-prop-types": "^1.0.0"
   }

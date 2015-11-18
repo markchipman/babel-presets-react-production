@@ -3,6 +3,7 @@
 This preset includes the following plugins:
 * babel-plugin-react-class-display-name
 * babel-plugin-react-remove-prop-types
+* babel-plugin-dev-expression
 
 ### Installation
 
